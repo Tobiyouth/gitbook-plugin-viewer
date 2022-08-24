@@ -10,11 +10,12 @@
     }
   ],
   "name": "gitbook-plugin-viewer",
+  "description": "Add viewerjs for gitbook",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Tobiyouth/gitbook-plugin-viewer.git"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
