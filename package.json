@@ -1,0 +1,20 @@
+{
+  "engines": {
+    "gitbook": "*"
+  },
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "ljtian516521@qq.com",
+      "name": "Tobiyouth"
+    }
+  ],
+  "name": "gitbook-plugin-viewer",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okalachev/gitbook-plugin-image-zoom.git"
+  },
+  "version": "1.0.0"
+}
