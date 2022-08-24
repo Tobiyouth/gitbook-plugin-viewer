@@ -14,7 +14,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/okalachev/gitbook-plugin-image-zoom.git"
+    "url": "git+https://github.com/Tobiyouth/gitbook-plugin-viewer.git"
   },
   "version": "1.0.0"
 }
